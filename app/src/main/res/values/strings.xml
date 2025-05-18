@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pinterest Xml</string>
+    <string name="crea_la_vida_que_deseas_en_pinterest">Crea la vida que deseas en Pinterest</string>
+    <string name="perfil">Perfil</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="editar">Editar</string>
+    <string name="agregar">Agregar</string>
+    <string name="agregar_descripcion">Agregar descripcion</string>
+    <string name="agregar_nombre">Agregar nombre</string>
+    <string name="agregar_imagen">Agregar imagen</string>
+    <string name="publicar">Publicar</string>
+    <string name="home">Home</string>
+    <string name="subir">Subir</string>
+    <string name="p_vender">Publicar un producto que quieres vender</string>
+    <string name="p_normal">Publicar una imagen para que todos la puedan ver</string>
+    <string name="ir_perfil">Ir al Perfil</string>
+    <string name="publicaciones">Mis Publicaciones</string>
+    <string name="volver">Volver</string>
+</resources>
